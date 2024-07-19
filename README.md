@@ -39,6 +39,7 @@ dotnet run
 
 ## Interacting with the User Interface
 -	Create Employee: Click on "Create New" button, fill in the form, and click "Create".
+  ![](https://ibb.co/5L0SSCf)
 -	Edit Employee: Click on "Edit" next to an employee, modify the details, and click "Save".
 -	View Details: Click on "Details" next to an employee.
 -	Delete Employee: Click on "Delete" next to an employee and confirm the deletion.
@@ -48,7 +49,7 @@ dotnet run
 ### 1.	Navigate to /Employees:
 -	Ensure the list of employees is displayed correctly.
 -	Test the Create, Edit, Details, and Delete links to make sure they lead to the correct pages.
--	
+  
 ### 2.	Create Employee:
 -	Fill out the form and submit it.
 -	Verify the employee is added to the list.
