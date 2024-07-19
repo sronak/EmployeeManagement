@@ -40,12 +40,19 @@ dotnet run
 ## Interacting with the User Interface
 -	Create Employee: Click on "Create New" button, fill in the form, and click "Create".
   ![](https://sronak.github.io/my-gallery/media/original/AlbumName/Create%20New.png)
+ 	
  	![](https://sronak.github.io/my-gallery/media/large/AlbumName/CreateNewFrom.png)
+ 	
 -	Edit Employee: Click on "Edit" next to an employee, modify the details, and click "Save".
+  
   ![](https://sronak.github.io/my-gallery/media/large/AlbumName/EditEmpDetail.png)
+ 	
 -	View Details: Click on "Details" next to an employee.
+  
   ![](https://sronak.github.io/my-gallery/media/large/AlbumName/EmpDetail.png)
+  
 -	Delete Employee: Click on "Delete" next to an employee and confirm the deletion.
+
   ![](https://sronak.github.io/my-gallery/media/large/AlbumName/DeleteEmp.png)
  	![](https://sronak.github.io/my-gallery/media/large/AlbumName/DeleteEmp2.png)
 
